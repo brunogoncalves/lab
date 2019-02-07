@@ -1,0 +1,7 @@
+{ 
+    "pasta1": {
+        "localFolder": "pasta1",
+        "repository" : "git@github.com:brunogoncalves/lab-pasta1.git",
+        "branch"     : "master"
+    }
+}
